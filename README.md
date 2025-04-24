@@ -1,1 +1,1 @@
-Criar um arquivo estilo.css com a formatação apropriada para os arquivos index.html e detalhe.html.
+# ppl-Oficina-01-2025
